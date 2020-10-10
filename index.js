@@ -131,4 +131,4 @@ client.on("message", msg => {
     msg.react("👎");
   }
 });
-client.login('NzYwNzg3NTIyMDg2ODk1NjQ2.X3RImA.DoMCPoCvphfOwVDoqFTqC242hds');
+client.login('token');
